@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60727" started-at="2022-05-01T12:13:38 CDT" finished-at="2022-05-01T12:14:39 CDT">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="31687" started-at="2022-05-01T12:13:38 CDT" finished-at="2022-05-01T12:14:10 CDT">
+      <class name="PangramPackageTestNG.PT_ClickOn_X_Sign">
+        <test-method status="PASS" signature="TC5_PT_ClickOn_X_Sign()[pri:0, instance:PangramPackageTestNG.PT_ClickOn_X_Sign@6366ebe0]" name="TC5_PT_ClickOn_X_Sign" duration-ms="4516" started-at="2022-05-01T12:13:52 CDT" finished-at="2022-05-01T12:13:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_PT_ClickOn_X_Sign -->
+      </class> <!-- PangramPackageTestNG.PT_ClickOn_X_Sign -->
+      <class name="PangramPackageTestNG.PT_TryAgain">
+        <test-method status="PASS" signature="TC4_PT_TryAgain()[pri:0, instance:PangramPackageTestNG.PT_TryAgain@43d7741f]" name="TC4_PT_TryAgain" duration-ms="5480" started-at="2022-05-01T12:14:04 CDT" finished-at="2022-05-01T12:14:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_PT_TryAgain -->
+      </class> <!-- PangramPackageTestNG.PT_TryAgain -->
+      <class name="PangramPackageTestNG.PT_26_moreCharacter_Pangram">
+        <test-method status="PASS" signature="TC3_PT_26_moreCharacter_Pangram()[pri:0, instance:PangramPackageTestNG.PT_26_moreCharacter_Pangram@3d0f8e03]" name="TC3_PT_26_moreCharacter_Pangram" duration-ms="4870" started-at="2022-05-01T12:13:47 CDT" finished-at="2022-05-01T12:13:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_PT_26_moreCharacter_Pangram -->
+      </class> <!-- PangramPackageTestNG.PT_26_moreCharacter_Pangram -->
+      <class name="PangramPackageTestNG.PT_SiteSecurityTest">
+        <test-method status="PASS" signature="TC1_PT_SiteSecurityTest()[pri:0, instance:PangramPackageTestNG.PT_SiteSecurityTest@44f75083]" name="TC1_PT_SiteSecurityTest" duration-ms="3476" started-at="2022-05-01T12:13:56 CDT" finished-at="2022-05-01T12:14:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_PT_SiteSecurityTest -->
+      </class> <!-- PangramPackageTestNG.PT_SiteSecurityTest -->
+      <class name="PangramPackageTestNG.PT_Submit_WithoutText">
+        <test-method status="PASS" signature="TC6_PT_Submit_WithoutText()[pri:0, instance:PangramPackageTestNG.PT_Submit_WithoutText@2698dc7]" name="TC6_PT_Submit_WithoutText" duration-ms="4240" started-at="2022-05-01T12:14:00 CDT" finished-at="2022-05-01T12:14:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6_PT_Submit_WithoutText -->
+      </class> <!-- PangramPackageTestNG.PT_Submit_WithoutText -->
+      <class name="PangramPackageTestNG.PT_26_moreCharacter_nonPangram">
+        <test-method status="PASS" signature="TC2_PT_26_moreCharacter_nonPangram()[pri:0, instance:PangramPackageTestNG.PT_26_moreCharacter_nonPangram@57f23557]" name="TC2_PT_26_moreCharacter_nonPangram" duration-ms="9043" started-at="2022-05-01T12:13:38 CDT" finished-at="2022-05-01T12:13:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_PT_26_moreCharacter_nonPangram -->
+      </class> <!-- PangramPackageTestNG.PT_26_moreCharacter_nonPangram -->
+    </test> <!-- Regression -->
+    <test name="Sanity" duration-ms="29011" started-at="2022-05-01T12:14:10 CDT" finished-at="2022-05-01T12:14:39 CDT">
+      <class name="PangramPackageTestNG.PanagramTesting">
+        <test-method status="PASS" signature="TC1_PT_SiteSecurityTest()[pri:0, instance:PangramPackageTestNG.PanagramTesting@588df31b]" name="TC1_PT_SiteSecurityTest" duration-ms="3941" started-at="2022-05-01T12:14:10 CDT" finished-at="2022-05-01T12:14:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_PT_SiteSecurityTest -->
+        <test-method status="PASS" signature="TC2_PT_26_moreCharacter_nonPangram()[pri:0, instance:PangramPackageTestNG.PanagramTesting@588df31b]" name="TC2_PT_26_moreCharacter_nonPangram" duration-ms="4754" started-at="2022-05-01T12:14:14 CDT" finished-at="2022-05-01T12:14:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_PT_26_moreCharacter_nonPangram -->
+        <test-method status="PASS" signature="TC3_PT_26_moreCharacter_Pangram()[pri:0, instance:PangramPackageTestNG.PanagramTesting@588df31b]" name="TC3_PT_26_moreCharacter_Pangram" duration-ms="5092" started-at="2022-05-01T12:14:18 CDT" finished-at="2022-05-01T12:14:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_PT_26_moreCharacter_Pangram -->
+        <test-method status="PASS" signature="TC4_PT_TryAgain()[pri:0, instance:PangramPackageTestNG.PanagramTesting@588df31b]" name="TC4_PT_TryAgain" duration-ms="5525" started-at="2022-05-01T12:14:23 CDT" finished-at="2022-05-01T12:14:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_PT_TryAgain -->
+        <test-method status="PASS" signature="TC5_PT_ClickOn_X_Sign()[pri:0, instance:PangramPackageTestNG.PanagramTesting@588df31b]" name="TC5_PT_ClickOn_X_Sign" duration-ms="5003" started-at="2022-05-01T12:14:29 CDT" finished-at="2022-05-01T12:14:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_PT_ClickOn_X_Sign -->
+        <test-method status="PASS" signature="TC6_PT_Submit_WithoutText()[pri:0, instance:PangramPackageTestNG.PanagramTesting@588df31b]" name="TC6_PT_Submit_WithoutText" duration-ms="4684" started-at="2022-05-01T12:14:34 CDT" finished-at="2022-05-01T12:14:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6_PT_Submit_WithoutText -->
+      </class> <!-- PangramPackageTestNG.PanagramTesting -->
+    </test> <!-- Sanity -->
+  </suite> <!-- Suite -->
+</testng-results>

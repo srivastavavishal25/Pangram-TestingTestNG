@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+  <test thread-count="5" name="Regression">
+    <classes>  
+      <class name="PangramPackageTestNG.PT_26_moreCharacter_nonPangram"/>
+      <class name="PangramPackageTestNG.PT_26_moreCharacter_Pangram"/>
+      <class name="PangramPackageTestNG.PT_ClickOn_X_Sign"/>
+      <class name="PangramPackageTestNG.PT_SiteSecurityTest"/>
+      <class name="PangramPackageTestNG.PT_Submit_WithoutText"/>
+      <class name="PangramPackageTestNG.PT_TryAgain"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Sanity">
+    <classes>  
+      <class name="PangramPackageTestNG.PanagramTesting"/>
+    </classes>
+  </test> 
+  
+</suite> 
